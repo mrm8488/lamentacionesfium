@@ -1,4 +1,4 @@
-name: publish-comments
+name: publish-comment
 
 on:
   issue_comment:
