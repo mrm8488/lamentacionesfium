@@ -1,5 +1,5 @@
 # Muro de las lamentaciones de la FIUM :computer:
-Versión [online](https://lamentacionesfium.netlify.com/) del "Muro de las las Lamentaciones" de la Facultad de Informática de la Universidad de Murcia (no oficial)
+Versión [online](https://lamentacionesfium.netlify.com/) del "Muro de las Lamentaciones" de la Facultad de Informática de la Universidad de Murcia (*no oficial*)
 
 Para añadir un comentario/publicación sólo tienes que comentar el siguiente issue:
 
